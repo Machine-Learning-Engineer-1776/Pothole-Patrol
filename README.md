@@ -1,7 +1,6 @@
 # **Pothole Patrol AI**  
 **Real-time pothole detection for safer roads and smarter fleet management.**
 
-![Pothole Patrol Demo](https://via.placeholder.com/800x400?text=Pothole+Detection+Demo)  
 *AI-powered detection in action — potholes highlighted in real-time.*
 
 ---
