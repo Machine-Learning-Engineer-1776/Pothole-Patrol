@@ -2,7 +2,7 @@
 **Real-time pothole detection for safer roads and smarter fleet management.**
 
 *AI-powered detection in action — potholes highlighted in real-time.*
-
+http://44.248.45.242:8501/
 ---
 
 ## **Overview**
@@ -52,6 +52,7 @@
 
 **Try it now:**  
 [https://pothole-patrol-ai.com](https://pothole-patrol-ai.com)
+http://44.248.45.242:8501/
 
 > *Works on **iPhone & Android** — use camera for live detection.*
 
