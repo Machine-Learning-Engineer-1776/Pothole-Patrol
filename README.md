@@ -1,4 +1,4 @@
-#🚧 **Pothole Patrol AI**  
+# **Pothole Patrol AI**  
 **Real-time pothole detection for safer roads and smarter fleet management.**
 
 *AI-powered detection in action — potholes highlighted in real-time.*
