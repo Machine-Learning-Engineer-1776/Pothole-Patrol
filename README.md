@@ -7,8 +7,8 @@
 ![AWS](https://img.shields.io/badge/Deployed%20on-AWS%20Lightsail-orange?logo=amazonaws)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-> **Live Demo:** [https://pothole-patrol-ai.com](https://pothole-patrol-ai.com)  
-> **App URL:** [http://44.248.45.242:8501](http://44.248.45.242:8501)
+> **Live APP:** [https://pothole-patrol-ai.com](https://pothole-patrol-ai.com)  
+
 
 ---
 
