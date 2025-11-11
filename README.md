@@ -71,22 +71,13 @@ Watch AI in action on real driving footage.
 
 ---
 
-## How It Works
+## Try the Demo
 
-```mermaid
-graph TD
-    A[User opens app] --> B{Choose input}
-    B --> C[Upload Photo]
-    B --> D[Use Phone Camera]
-    B --> E[Select Example]
-    B --> F[Watch Video Demo]
-    C --> G[Preprocess → 640x640]
-    D --> G
-    E --> G
-    F --> H[Play Pre-recorded Video]
-    G --> I[ONNX Model Inference]
-    I --> J[Post-process + NMS]
-    J --> K[Draw Blue Boxes + Confidence]
-    K --> L{Report?}
-    L -->|Yes| M[Fake GPS + Success + Balloons]
-    L -->|No| N[View Results]
+**Live App (mobile camera works):** [https://pothole-patrol-ai.com](https://pothole-patrol-ai.com)
+
+> **No login. No tracking. No data saved.**  
+> Perfect for demos, pitches, or hackathons.
+
+---
+
+## Project Structure
