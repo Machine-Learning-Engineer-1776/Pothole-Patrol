@@ -49,7 +49,7 @@ Drag and drop any road image — AI analyzes and highlights potholes immediately
 ### 3. Live Camera Detection  
 Open your phone camera — point at the road — AI detects potholes **in real time**.
 
-<img width="1409" height="309" alt="{81B02F96-799F-42E6-9AA9-6C9218B010FB}" src="https://github.com/user-attachments/assets/2744eb95-e628-4120-bf4e-f5784c2e84c0" />
+<img width="589" height="85" alt="{AE42037B-C6FD-45A6-BB9F-EE562A01C055}" src="https://github.com/user-attachments/assets/e35d11cf-5df5-44a1-82e9-bba0ae499286" />
  
 *Live phone view with instant pothole detection.*
 
