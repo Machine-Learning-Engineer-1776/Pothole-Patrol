@@ -12,11 +12,12 @@
 
 ## Overview
 
-**Pothole Patrol AI** is a **real-time computer vision web app** that uses **YOLOv8 (ONNX)** to detect potholes from:
+**Pothole Patrol AI** is a **real-time computer vision web app** that uses **YOLOv8 (ONNX)** to detect potholes via **four powerful input modes**:
 
-- Uploaded images
-- Live phone camera
-- Preloaded examples
+- **Upload your own image** — Drag and drop any road photo  
+- **Live phone camera** — Point and detect in real time  
+- **Preloaded examples** — Try 5 built-in pothole samples  
+- **Video demo** — Watch AI analyze real driving footage  
 
 Built for **fleet managers, city officials, and drivers**, it instantly identifies road hazards and simulates reporting to a **SmartFleet dashboard** for optimized repair routing.
 
@@ -78,12 +79,14 @@ graph TD
     B --> C[Upload Photo]
     B --> D[Use Phone Camera]
     B --> E[Select Example]
-    C --> F[Preprocess → 640x640]
-    D --> F
-    E --> F
-    F --> G[ONNX Model Inference]
-    G --> H[Post-process + NMS]
-    H --> I[Draw Blue Boxes + Confidence]
-    I --> J{Report?}
-    J -->|Yes| K[Fake GPS + Success + Balloons]
-    J -->|No| L[View Results]
+    B --> F[Watch Video Demo]
+    C --> G[Preprocess → 640x640]
+    D --> G
+    E --> G
+    F --> H[Play Pre-recorded Video]
+    G --> I[ONNX Model Inference]
+    I --> J[Post-process + NMS]
+    J --> K[Draw Blue Boxes + Confidence]
+    K --> L{Report?}
+    L -->|Yes| M[Fake GPS + Success + Balloons]
+    L -->|No| N[View Results]
