@@ -30,7 +30,7 @@ Try 5 sample images instantly — see AI detect potholes with zero setup.
 
 <img width="1445" height="145" alt="{EDFB24E1-3A5F-4058-B769-3024535AC8E7}" src="https://github.com/user-attachments/assets/23cc516c-f5c2-45e1-aabd-b8c83471b7dc" />
 
-<img width="577" height="457" alt="{F455DF30-DFC9-4293-B6F9-C3338310AB90}" src="https://github.com/user-attachments/assets/b923565e-f16a-41ed-ae08-502c34f932b1" />
+<img width="288" height="228" alt="{F455DF30-DFC9-4293-B6F9-C3338310AB90}" src="https://github.com/user-attachments/assets/b923565e-f16a-41ed-ae08-502c34f932b1" />
 
 
 *Sample image with blue bounding boxes and confidence scores.*
