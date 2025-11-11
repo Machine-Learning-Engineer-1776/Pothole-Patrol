@@ -5,7 +5,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-red?logo=streamlit&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-ONNX-success?logo=ultralytics)
 ![AWS](https://img.shields.io/badge/Deployed%20on-AWS%20Lightsail-orange?logo=amazonaws)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > **Live APP:** [https://pothole-patrol-ai.com](https://pothole-patrol-ai.com)  
 
