@@ -14,46 +14,54 @@
 
 **Pothole Patrol AI** is a **real-time computer vision web app** that uses **YOLOv8 (ONNX)** to detect potholes via **four powerful input modes**:
 
+- **Preloaded examples** — Try 5 built-in pothole samples  
 - **Upload your own image** — Drag and drop any road photo  
 - **Live phone camera** — Point and detect in real time  
-- **Preloaded examples** — Try 5 built-in pothole samples  
 - **Video demo** — Watch AI analyze real driving footage  
 
 Built for **fleet managers, city officials, and drivers**, it instantly identifies road hazards and simulates reporting to a **SmartFleet dashboard** for optimized repair routing.
 
 ---
 
-## Key Features
+## Key Features (In App Order)
 
-### Live Camera Detection  
-Point your phone at the road — AI highlights potholes instantly.
+### 1. Preloaded Examples  
+Try 5 sample images instantly — see AI detect potholes with zero setup.
 
-![Live Camera Detection](screenshots/camera-detection.png)  
-*Phone camera view with blue bounding boxes and confidence scores.*
+![Preloaded Examples](screenshots/upload-detection.png)  
+*Sample image with blue bounding boxes and confidence scores.*
 
 ---
 
-### Image Upload & Preloaded Examples  
-Upload any photo or try 5 preloaded pothole samples.
+### 2. Upload Your Own Photo  
+Drag and drop any road image — AI analyzes and highlights potholes immediately.
 
 ![Upload Detection](screenshots/upload-detection.png)  
-*Example image with detected potholes and confidence labels.*
+*Uploaded image with detected potholes and confidence labels.*
 
 ---
 
-### SmartFleet Reporting (Demo)  
-Tap **Report To SmartFleet** — simulates sending the image + fake GPS to the fleet system.
+### 3. Live Camera Detection  
+Open your phone camera — point at the road — AI detects potholes **in real time**.
+
+![Live Camera Detection](screenshots/camera-detection.png)  
+*Live phone view with instant pothole detection.*
+
+---
+
+### 4. Report to SmartFleet (Demo)  
+Tap **Report To SmartFleet** — simulates sending image + fake GPS to fleet system.
 
 ![Report Success](screenshots/report-success.png)  
-*Success message with fake Chicago coordinates, balloons, and SmartFleet link.*
+*Success screen with fake Chicago GPS, balloons, and SmartFleet link.*
 
 ---
 
-### Video Demo  
-Watch AI in action on real driving footage.
+### 5. Video Demo  
+Watch a pre-recorded driving clip — see AI detect potholes frame by frame.
 
 ![Video Demo](screenshots/video-demo.png)  
-*Video player paused on a frame with pothole detection.*
+*Video player paused on a frame with active pothole detection.*
 
 ---
 
