@@ -79,3 +79,72 @@ graph TD
     I --> J{Report?}
     J -->|Yes| K[Fake GPS + Success + Balloons]
     J -->|No| L[View Results]
+
+
+
+Input → Image or live camera frame
+AI → Runs YOLOv8 ONNX model
+Output → Potholes boxed in blue with confidence
+Report → Simulates sending to SmartFleet with fake Chicago GPS
+Data → Ready for fleet route optimization
+
+
+🎮 Try the Demo
+👉 Live App: https://pothole-patrol-ai.com
+👉 Direct Link: http://44.248.45.242:8501
+No login. No tracking. No data saved.
+Perfect for demos, pitches, or hackathons.
+
+📂 Project Structure
+textPothole-Patrol-AI/
+│
+├── pothole-model.onnx          # YOLOv8 ONNX model
+├── app.py                      # Main Streamlit app
+├── Example Photos/             # 5 sample images
+├── Demo-Videos/                # pothole_demo_h264.mp4
+├── screenshots/                # ← ADD YOUR IMAGES HERE
+└── README.md                   # ← You're reading it!
+
+🚀 Local Development
+Prerequisites
+
+Python 3.9+
+pip
+
+Setup
+bash# Clone repo
+git clone https://github.com/yourusername/Pothole-Patrol-AI.git
+cd Pothole-Patrol-AI
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run locally
+streamlit run app.py
+Model (pothole-model.onnx) must be in root directory.
+
+🌍 Deployment (AWS Lightsail)
+
+Launch Ubuntu 22.04 instance
+Install Python + Streamlit
+Copy files via scp
+Run with nohup streamlit run app.py --server.port=8501 &
+Open port 8501 in firewall
+
+
+🛡️ Privacy & Demo Mode
+This is a demo.
+Photos are not saved
+GPS is fake (Chicago neighborhoods)
+No user data collected
+
+
+📄 License
+MIT License – Free to use, modify, and deploy.
+
+⭐ Star this project if you like it!
+Help us improve road safety — one pothole at a time.
+
+
+
+
