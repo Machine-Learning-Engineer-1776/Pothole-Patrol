@@ -67,7 +67,7 @@ Tap **Report To SmartFleet** — simulates sending image + fake GPS to fleet sys
 ### 5. Video Demo  
 Watch a pre-recorded driving clip — see AI detect potholes frame by frame.
 
-<img width="773" height="533" alt="{50032FB5-278D-4F5E-BCAD-C2979F98EAB3}" src="https://github.com/user-attachments/assets/37396ba1-1c08-438f-8cb0-99f1758e786b" />
+<img width="258" height="178" alt="{50032FB5-278D-4F5E-BCAD-C2979F98EAB3}" src="https://github.com/user-attachments/assets/37396ba1-1c08-438f-8cb0-99f1758e786b" />
 
 *Video player paused on a frame with active pothole detection.*
 
