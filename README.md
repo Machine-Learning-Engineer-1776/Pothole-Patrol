@@ -81,3 +81,34 @@ Watch AI in action on real driving footage.
 ---
 
 ## Project Structure
+
+**Root Directory:**
+- `pothole-model.onnx` → YOLOv8 ONNX model
+- `app.py` → Main Streamlit app
+- `Example Photos/` → 5 sample images
+- `Demo-Videos/` → pothole_demo_h264.mp4
+- `screenshots/` → ← ADD YOUR IMAGES HERE
+- `README.md` → ← You’re reading it!
+
+---
+
+## Deployment (AWS Lightsail)
+
+1. Launch **Ubuntu 22.04** instance  
+2. Install Python + Streamlit  
+3. Copy files via `scp`  
+4. Run: `nohup streamlit run app.py --server.port=8501 &`  
+5. Open port `8501` in firewall  
+
+---
+
+## Privacy & Demo Mode
+
+> **This is a demo.**  
+> - Photos are **not saved**  
+> - GPS is **fake** (Chicago neighborhoods)  
+> - No user data collected  
+
+---
+
+**Made with love for smarter cities**
