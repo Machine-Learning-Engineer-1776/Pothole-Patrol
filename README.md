@@ -87,6 +87,27 @@ Watch a pre-recorded driving clip — see AI detect potholes frame by frame.
 
 ---
 
+## How It Works
+
+```mermaid
+graph TD
+    A[Pothole Patrol AI] --> B{Select Mode}
+    B --> C[Preloaded Examples]
+    B --> D[Upload Image]
+    B --> E[Live Camera]
+    B --> F[Video Demo]
+    C --> G[AI Detection]
+    D --> G
+    E --> G
+    F --> H[Play Video]
+    G --> I[Blue Boxes + Confidence]
+    I --> J{Report?}
+    J -->|Yes| K[Fake GPS + Balloons]
+    J -->|No| L[Done]
+    K --> M[SmartFleet Dashboard]
+
+
+---
 ## Try the Demo
 
 **Live App (mobile camera works):** [https://pothole-patrol-ai.com](https://pothole-patrol-ai.com)
