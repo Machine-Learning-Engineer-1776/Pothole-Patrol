@@ -28,7 +28,7 @@ Built for **fleet managers, city officials, and drivers**, it instantly identifi
 ### 1. Preloaded Examples  
 Try 5 sample images instantly — see AI detect potholes with zero setup.
 
-<img width="1445" height="377" alt="{CCA7AC7D-7198-415E-95C2-02259516EF69}" src="https://github.com/user-attachments/assets/7c50d44b-7d5f-4c18-ac8a-dddda51e7f94" />
+<img width="1445" height="145" alt="{EDFB24E1-3A5F-4058-B769-3024535AC8E7}" src="https://github.com/user-attachments/assets/23cc516c-f5c2-45e1-aabd-b8c83471b7dc" />
 
 <img width="577" height="457" alt="{F455DF30-DFC9-4293-B6F9-C3338310AB90}" src="https://github.com/user-attachments/assets/b923565e-f16a-41ed-ae08-502c34f932b1" />
 
