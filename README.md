@@ -23,12 +23,16 @@ Built for **fleet managers, city officials, and drivers**, it instantly identifi
 
 ---
 
-## Key Features (In App Order)
+## Key Features
 
 ### 1. Preloaded Examples  
 Try 5 sample images instantly — see AI detect potholes with zero setup.
 
-![Preloaded Examples](screenshots/upload-detection.png)  
+<img width="1445" height="377" alt="{CCA7AC7D-7198-415E-95C2-02259516EF69}" src="https://github.com/user-attachments/assets/7c50d44b-7d5f-4c18-ac8a-dddda51e7f94" />
+
+<img width="577" height="457" alt="{F455DF30-DFC9-4293-B6F9-C3338310AB90}" src="https://github.com/user-attachments/assets/b923565e-f16a-41ed-ae08-502c34f932b1" />
+
+
 *Sample image with blue bounding boxes and confidence scores.*
 
 ---
@@ -36,7 +40,8 @@ Try 5 sample images instantly — see AI detect potholes with zero setup.
 ### 2. Upload Your Own Photo  
 Drag and drop any road image — AI analyzes and highlights potholes immediately.
 
-![Upload Detection](screenshots/upload-detection.png)  
+<img width="1429" height="401" alt="{06DD5DF1-5901-4065-BAD8-7BA2A4790AB2}" src="https://github.com/user-attachments/assets/1f925e3a-ebd5-4f21-8c84-a971e6ad158f" />
+
 *Uploaded image with detected potholes and confidence labels.*
 
 ---
@@ -44,7 +49,8 @@ Drag and drop any road image — AI analyzes and highlights potholes immediately
 ### 3. Live Camera Detection  
 Open your phone camera — point at the road — AI detects potholes **in real time**.
 
-![Live Camera Detection](screenshots/camera-detection.png)  
+<img width="1409" height="309" alt="{81B02F96-799F-42E6-9AA9-6C9218B010FB}" src="https://github.com/user-attachments/assets/2744eb95-e628-4120-bf4e-f5784c2e84c0" />
+ 
 *Live phone view with instant pothole detection.*
 
 ---
@@ -52,7 +58,8 @@ Open your phone camera — point at the road — AI detects potholes **in real t
 ### 4. Report to SmartFleet (Demo)  
 Tap **Report To SmartFleet** — simulates sending image + fake GPS to fleet system.
 
-![Report Success](screenshots/report-success.png)  
+<img width="1261" height="625" alt="{1BAF322B-C392-48D4-AA59-4571BB459383}" src="https://github.com/user-attachments/assets/38bbe220-7a20-4267-b167-076d844143ec" />
+
 *Success screen with fake Chicago GPS, balloons, and SmartFleet link.*
 
 ---
@@ -60,7 +67,8 @@ Tap **Report To SmartFleet** — simulates sending image + fake GPS to fleet sys
 ### 5. Video Demo  
 Watch a pre-recorded driving clip — see AI detect potholes frame by frame.
 
-![Video Demo](screenshots/video-demo.png)  
+<img width="773" height="533" alt="{50032FB5-278D-4F5E-BCAD-C2979F98EAB3}" src="https://github.com/user-attachments/assets/37396ba1-1c08-438f-8cb0-99f1758e786b" />
+
 *Video player paused on a frame with active pothole detection.*
 
 ---
