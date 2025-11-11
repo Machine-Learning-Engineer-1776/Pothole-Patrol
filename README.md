@@ -33,16 +33,12 @@ Try 5 sample images instantly — see AI detect potholes with zero setup.
 <img width="288" height="228" alt="{F455DF30-DFC9-4293-B6F9-C3338310AB90}" src="https://github.com/user-attachments/assets/b923565e-f16a-41ed-ae08-502c34f932b1" />
 
 
-*Sample image with blue bounding boxes and confidence scores.*
-
 ---
 
 ### 2. Upload Your Own Photo  
 Drag and drop any road image — AI analyzes and highlights potholes immediately.
 
 <img width="1429" height="401" alt="{06DD5DF1-5901-4065-BAD8-7BA2A4790AB2}" src="https://github.com/user-attachments/assets/1f925e3a-ebd5-4f21-8c84-a971e6ad158f" />
-
-*Uploaded image with detected potholes and confidence labels.*
 
 ---
 
@@ -51,8 +47,6 @@ Open your phone camera — point at the road — AI detects potholes **in real t
 
 <img width="197" height="29" alt="{AE42037B-C6FD-45A6-BB9F-EE562A01C055}" src="https://github.com/user-attachments/assets/e35d11cf-5df5-44a1-82e9-bba0ae499286" />
  
-*Live phone view with instant pothole detection.*
-
 ---
 
 ### 4. Report to SmartFleet (Demo)  
@@ -60,16 +54,12 @@ Tap **Report To SmartFleet** — simulates sending image + fake GPS to fleet sys
 
 <img width="1261" height="625" alt="{1BAF322B-C392-48D4-AA59-4571BB459383}" src="https://github.com/user-attachments/assets/38bbe220-7a20-4267-b167-076d844143ec" />
 
-*Success screen with fake Chicago GPS, balloons, and SmartFleet link.*
-
 ---
 
 ### 5. Video Demo  
 Watch a pre-recorded driving clip — see AI detect potholes frame by frame.
 
 <img width="258" height="178" alt="{50032FB5-278D-4F5E-BCAD-C2979F98EAB3}" src="https://github.com/user-attachments/assets/37396ba1-1c08-438f-8cb0-99f1758e786b" />
-
-*Video player paused on a frame with active pothole detection.*
 
 ---
 
@@ -82,7 +72,6 @@ Watch a pre-recorded driving clip — see AI detect potholes frame by frame.
 | **Streamlit** | Interactive web frontend |
 | **OpenCV** | Image preprocessing & bounding box rendering |
 | **AWS Lightsail** | Production hosting |
-| **AWS S3** | Report storage (future analytics) |
 | **Python 3.9+** | Core language |
 
 ---
