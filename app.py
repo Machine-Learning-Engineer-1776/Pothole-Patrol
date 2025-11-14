@@ -13,8 +13,8 @@ st.set_page_config(page_title="Pothole Patrol", page_icon="🚧")  # FIXED: Real
 # === S3 (KEEPING FOR NOW — NOT USED IN REPORT) ===
 s3 = boto3.client(
     's3',
-    aws_access_key_id="AKIAWPEXTJOZPQARVOZQ",
-    aws_secret_access_key="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"
+    aws_access_key_id="HIDDEN",
+    aws_secret_access_key="HIDDEN"
 )
 S3_BUCKET = "porthole-patrol-smartfleet"
 
